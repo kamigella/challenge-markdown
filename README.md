@@ -18,10 +18,9 @@
 - Danse 
     - Salsa
     - Samba
-
-##Vous pouvez toujours compter sur moi pour...
--Un soutien morale, une écoute active et empathique. 
- -L'aspect visuel et la présentation d'un projet intératif visé client. 
+## Vous pouvez toujours compters sur moi pour...
+- Un soutien morale, une écoute active et empathique. 
+ - L'aspect visuel et la présentation d'un projet intératif visé client. 
 
  ## Une drôle d'histoire 
  Le premier s'apelle "Fou", le deuxième "Personne" et le troisième "Rien". Personne tombe dans l'eau. Rien dit à Fou d'appeller les secours. 
