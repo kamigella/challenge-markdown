@@ -36,5 +36,5 @@
 ### TL;DR
  Trois fous dans un bateau.
 
-<< [Hazem](https://github.com/HazemMaddouri/challenge-markdown/blob/main/README.md)|| Kamilla MORAES || [Julien](https://github.com/FriquetLuca/challenge-markdown/blob/master/README.md) >>
+<< [Hazem](https://github.com/HazemMaddouri/challenge-markdown/blob/main/README.md)|| Kamilla MORAES || [Julien](https://github.com/JulienScourneau/challenge-markdown) >>
 
